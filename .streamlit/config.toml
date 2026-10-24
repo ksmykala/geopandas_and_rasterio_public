@@ -1,0 +1,3 @@
+[server]
+# Allow large GeoTIFF uploads on the Rasterio page (default is 200 MB).
+maxUploadSize = 350

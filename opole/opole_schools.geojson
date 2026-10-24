@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "opole_schools",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "way/207027259", "name": "Niepubliczna Szkoła Podstawowa Nasza Szkoła" }, "geometry": { "type": "Point", "coordinates": [ 17.934539, 50.681911 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/208494323", "name": "Publiczna Szkoła Podstawowa nr 1 im. Obrońców Westerplatte" }, "geometry": { "type": "Point", "coordinates": [ 17.930881, 50.664428 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/452471787", "name": "Publiczna Szkoła Podstawowa nr 10 im. Henryka Sienkiewicza" }, "geometry": { "type": "Point", "coordinates": [ 17.901083, 50.656427 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/1102360496", "name": "Publiczna Szkoła Podstawowa nr 11 im. Orląt Lwowskich" }, "geometry": { "type": "Point", "coordinates": [ 17.927875, 50.680014 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/207020514", "name": "Publiczna Szkoła Podstawowa nr 15" }, "geometry": { "type": "Point", "coordinates": [ 17.955494, 50.672147 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/238353273", "name": "Publiczna Szkoła Podstawowa nr 16" }, "geometry": { "type": "Point", "coordinates": [ 17.957088, 50.652932 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/232683928", "name": "Publiczna Szkoła Podstawowa nr 2 im. Polskich Olimpijczyków" }, "geometry": { "type": "Point", "coordinates": [ 17.950798, 50.665344 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/531228882", "name": "Publiczna Szkoła Podstawowa nr 20" }, "geometry": { "type": "Point", "coordinates": [ 17.983699, 50.665319 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/536373659", "name": "Publiczna Szkoła Podstawowa nr 21 im. Obrońców Pokoju" }, "geometry": { "type": "Point", "coordinates": [ 17.92433, 50.671359 ] } },
+{ "type": "Feature", "properties": { "osm_id": "node/859299561", "name": "Publiczna Szkoła Podstawowa nr 24" }, "geometry": { "type": "Point", "coordinates": [ 17.9623, 50.626006 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/532398842", "name": "Publiczna Szkoła Podstawowa nr 26 w Opolu" }, "geometry": { "type": "Point", "coordinates": [ 17.985863, 50.643103 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/593083714", "name": "Publiczna Szkoła Podstawowa nr 31 w Opolu" }, "geometry": { "type": "Point", "coordinates": [ 17.903711, 50.720759 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/207020149", "name": "Publiczna Szkoła Podstawowa nr 5" }, "geometry": { "type": "Point", "coordinates": [ 17.950471, 50.680878 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/531415275", "name": "Publiczna Szkoła Podstawowa nr 9 im. Jana Łangowskiego w Opolu" }, "geometry": { "type": "Point", "coordinates": [ 17.882964, 50.676081 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/1134436127", "name": "Publiczna Szkoła Podstawowa w Sławicach im. Kawalerów Orderu Uśmiechu" }, "geometry": { "type": "Point", "coordinates": [ 17.860238, 50.704365 ] } },
+{ "type": "Feature", "properties": { "osm_id": "node/859299526", "name": "Szkoła Podstawowa Stowarzyszenia Pro Liberis Silesiae" }, "geometry": { "type": "Point", "coordinates": [ 17.997365, 50.623003 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/230552518", "name": "Szkoła Podstawowa nr 14" }, "geometry": { "type": "Point", "coordinates": [ 17.898135, 50.66727 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/757710315", "name": "Szkoła Podstawowa nr 25" }, "geometry": { "type": "Point", "coordinates": [ 17.956342, 50.683154 ] } },
+{ "type": "Feature", "properties": { "osm_id": "way/208602858", "name": "Szkoła Podstawowa nr 7" }, "geometry": { "type": "Point", "coordinates": [ 17.915489, 50.688632 ] } }
+]
+}

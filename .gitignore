@@ -1,0 +1,35 @@
+# Synthetic data generated on first start (see sample_data.py)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv
+.venv/
+env/
+
+# Streamlit — config.toml is committed, secrets are not
+.streamlit/secrets.toml
+
+# Environment variables / secrets
+.env
+.env.*
+
+# GDAL / rasterio side files
+*.aux.xml
+*.ovr
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
